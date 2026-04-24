@@ -36,8 +36,7 @@ This project provides a comprehensive analysis of the logistics landscape in Ban
 - 40% of hubs concentrated in Nelamangala and Hoskote.  
 - NH 48 carries 15,000 trucks/day with no alternate route.  
 - Multi‑axled vehicles grew 60% in 2025 vs 2024.  
-- NH 75 identified as the most critical e‑commerce corridor.  
-- **Data Integrity:** Resolved geospatial mapping errors for key industrial hubs (Narasapura/Bangalore West), ensuring 100% accuracy in corridor‑level risk assessment.  
+- NH 75 identified as the most critical e‑commerce corridor. 
 
 ## Author
 **Pavan**  
