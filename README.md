@@ -19,16 +19,18 @@ This project provides a comprehensive analysis of the logistics landscape in Ban
 ## Setup Instructions
 1. **SQL Database:**  
    - Run the provided schema scripts to create the tables and views.  
-   - Import the cleaned CSVs in the specified order to maintain referential integrity.  
+   - Import the cleaned Excel files in the specified order to maintain referential integrity.  
 
 2. **Power BI:**  
-   - Connect to the SQL database or the CSV files.  
+   - Connect to the SQL database or the Excel files.  
    - Establish 1‑to‑Many relationships from Corridors/Zones to the Hubs table.  
    - Use the provided `.pbix` file for ready‑made visuals.
 
 ## Dashboard Preview
-![Hub Network Map](docs/screenshots/hub_network_map.png)
-![Vehicle Growth Trends](docs/screenshots/vehicle_growth_trends.png)
+![Executive Summary](Docs/screenshots/executive_summary.png)  
+![Hub Network Map](Docs/screenshots/hub_network_map.png)  
+![Corridor Risk](Docs/screenshots/corridor_risk.png)  
+![Vehicle Growth Trends](Docs/screenshots/vehicle_growth_trends.png)  
 
 ## Results & Insights
 - 40% of hubs concentrated in Nelamangala and Hoskote.  
@@ -41,6 +43,3 @@ This project provides a comprehensive analysis of the logistics landscape in Ban
 **Pavan**  
 Data Analyst | Bengaluru, India  
 [GitHub Profile](https://github.com/Pa7an-dot)
-
-## License
-This project is licensed under the MIT License.
